@@ -4,20 +4,20 @@
     "message": "Cancel Booking 535594, RUH - MNL Oneway",
     "image_url": "https://randomuser.me/api/portraits/men/32.jpg",
     "last_name": "Lebron",
-    "first_name": "Joel",
+    "first_name": "Joel"
   },
   {
     "userid": 11,
     "message": "Where is my money",
     "image_url": "https://randomuser.me/api/portraits/women/44.jpg",
     "last_name": "Khalid",
-    "first_name": "Mohammed",
+    "first_name": "Mohammed"
   },
   {
     "userid": 12,
     "message": "I love you",
     "image_url": "https://randomuser.me/api/portraits/men/46.jpg",
     "last_name": "Abdo",
-    "first_name": "Hasanain",
+    "first_name": "Hasanain"
   }
 ]
