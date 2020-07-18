@@ -1,7 +1,4 @@
 {
-                "_id": "5c80c05437a4b84198a4fcbd",
-                "date_updated": "2019-03-07T10:55:41.747Z",
-                "date_created": "2019-03-07T06:55:16.546Z",
                 "message": "Cancel Booking 535594, RUH - MNL Oneway",
                 "sender": {
                     "device_interface": "android",
@@ -20,34 +17,4 @@
                 "pending_id": "",
                 "is_connected": true,
                 "device_interface": "android",
-                "group": "chat",
-                "identity": "",
-                "device": "",
-                "has_thumbnail": false,
-                "thumbnail": "",
-                "guest_id": "",
-                "seen": [
-                    {
-                        "date_updated": "2019-03-07T06:55:16.544Z",
-                        "date_created": "2019-03-07T06:55:16.544Z",
-                        "userid": "10",
-                        "type": "user",
-                        "image_url": null,
-                        "_id": "5c80c05437a4b84198a4fcbe"
-                    }
-                ],
-                "original_filename": "",
-                "mime": "",
-                "status": "sent",
-                "type": "text",
-                "ticket_id": 0,
-                "__v": 3,
-                "audio_info": {},
-                "events": [],
-                "data": [
-                    {}
-                ],
-                "extra_data": [
-                    {}
-                ]
             }
