@@ -1,20 +1,24 @@
-{
-                "message": "Cancel Booking 535594, RUH - MNL Oneway",
-                "sender": {
-                    "device_interface": "android",
-                    "phone_country": "+63",
-                    "phone_number": "9498803615",
-                    "membership_id": 2,
-                    "ip": "1",
-                    "type": "user",
-                    "image_url": null,
-                    "email": "joel@hotmail.com",
-                    "last_name": "Lebron",
-                    "first_name": "Joel",
-                    "userid": 10
-                },
-                "userid": "10",
-                "pending_id": "",
-                "is_connected": true,
-                "device_interface": "android",
-            }
+[
+  {
+    "userid": 10,
+    "message": "Cancel Booking 535594, RUH - MNL Oneway",
+    "image_url": "https://randomuser.me/api/portraits/men/32.jpg",
+    "last_name": "Lebron",
+    "first_name": "Joel",
+  },
+  {
+    "userid": 11,
+    "message": "Where is my money",
+    "image_url": "https://randomuser.me/api/portraits/women/44.jpg",
+    "last_name": "Khalid",
+    "first_name": "Mohammed",
+  },
+  {
+    "userid": 12,
+    "message": "I love you",
+    "image_url": "https://randomuser.me/api/portraits/men/46.jpg",
+    "last_name": "Abdo",
+    "first_name": "Hasanain",
+  },
+  
+]
